@@ -135,11 +135,13 @@ void outputImage(const std::string& output_file, unsigned char* grey_image, int 
 ## OUTPUT:
 
 ### Input Image
-<img src="https://github.com/user-attachments/assets/258fe645-3af6-438f-b459-f819d2c50b0b">
+![image](https://github.com/user-attachments/assets/099498bb-e2f3-44fe-8aed-02994c77e9e2)
+
 
 
 ### Grayscale Image
-<img src="https://github.com/user-attachments/assets/6baa62a4-e302-4f4a-b56b-e2cac956e3d1">
+![image](https://github.com/user-attachments/assets/d27293a9-4c3c-4bad-bf2e-365dfac02aaa)
+
 
 
 ## Result:
